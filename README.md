@@ -8,7 +8,7 @@ The custom token will have following functionalities:
 - The owner of the token will be able to mint tokens to other accounts
 - Any user can transfer tokens to other accounts.
 - Any user can burn tokens.
-- Any user can check the total turnover.
+- Any user can check the total turnover of tokens.
 
 
 
