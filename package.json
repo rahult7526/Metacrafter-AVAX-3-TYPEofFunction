@@ -1,0 +1,30 @@
+{
+  "name": "metacrafters-eth-avax-types_of_error-assessment",
+  "version": "1.0.0",
+  "description": "This project is a part of Metacrafters ETH+AVAX course assessment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.22.10"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.2"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/routadu/metacrafters-eth-avax-types_of_functions-assessment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/routadu/metacrafters-eth-avax-types_of_functions-assessment/issues"
+  },
+  "homepage": "https://github.com/routadu/metacrafters-eth-avax-types_of_functions-assessment#readme"
+}
